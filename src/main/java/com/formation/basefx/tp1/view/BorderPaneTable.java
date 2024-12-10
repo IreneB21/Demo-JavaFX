@@ -1,8 +1,7 @@
-package com.formation.basefx.tp.view;
+package com.formation.basefx.tp1.view;
 
-import com.formation.basefx.tp.model.Article;
-import com.formation.basefx.tp.model.ArticlesList;
-import javafx.collections.FXCollections;
+import com.formation.basefx.tp1.model.Article;
+import com.formation.basefx.tp1.model.ArticlesList;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;

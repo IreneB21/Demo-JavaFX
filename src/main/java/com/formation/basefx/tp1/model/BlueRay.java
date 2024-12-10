@@ -1,4 +1,4 @@
-package com.formation.basefx.tp.model;
+package com.formation.basefx.tp1.model;
 
 public class BlueRay extends Article {
     

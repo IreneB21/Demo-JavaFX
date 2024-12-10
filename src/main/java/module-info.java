@@ -1,6 +1,7 @@
 module com.formation.basefx {
     requires javafx.controls;
     requires java.desktop;
+    requires java.logging;
 
     exports com.formation.basefx;
     exports com.formation.basefx.exercices;
@@ -13,7 +14,10 @@ module com.formation.basefx {
     exports com.formation.basefx.mvvm.view;
     exports com.formation.basefx.mvvm.viewmodel;
     exports com.formation.basefx.vvm;
-    exports com.formation.basefx.tp;
-    exports com.formation.basefx.tp.model;
-    exports com.formation.basefx.tp.view;
+    exports com.formation.basefx.tp1;
+    exports com.formation.basefx.tp1.model;
+    exports com.formation.basefx.tp1.view;
+    exports com.formation.basefx.tp2;
+    exports com.formation.basefx.tp2.model;
+    exports com.formation.basefx.tp2.view;
 }

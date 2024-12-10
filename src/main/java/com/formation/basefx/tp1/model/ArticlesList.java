@@ -1,10 +1,7 @@
-package com.formation.basefx.tp.model;
+package com.formation.basefx.tp1.model;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class ArticlesList {
 

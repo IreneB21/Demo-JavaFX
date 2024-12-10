@@ -1,9 +1,9 @@
-package com.formation.basefx.tp;
+package com.formation.basefx.tp1;
 
-import com.formation.basefx.tp.model.Article;
-import com.formation.basefx.tp.model.ArticlesList;
-import com.formation.basefx.tp.view.BorderPaneTable;
-import com.formation.basefx.tp.view.GridPaneForm;
+import com.formation.basefx.tp1.model.Article;
+import com.formation.basefx.tp1.model.ArticlesList;
+import com.formation.basefx.tp1.view.BorderPaneTable;
+import com.formation.basefx.tp1.view.GridPaneForm;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.TableView;
