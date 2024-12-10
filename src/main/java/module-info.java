@@ -13,4 +13,7 @@ module com.formation.basefx {
     exports com.formation.basefx.mvvm.view;
     exports com.formation.basefx.mvvm.viewmodel;
     exports com.formation.basefx.vvm;
+    exports com.formation.basefx.tp;
+    exports com.formation.basefx.tp.model;
+    exports com.formation.basefx.tp.view;
 }
